@@ -1,12 +1,12 @@
 ## Sakthivel Nachimuthu (Cloud Data & AI Solution Architect)
 
-You can use the [editor on GitHub](https://github.com/dcnsakthi/dcnsakthi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Summary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Forward-thinking consultant, and technologist with 13+ years of experience, driving next-level performance in the digital-age for Fortune X companies through innovation and systems architecture. Relentless in creating solutions, that weave together existing business/technology practices with new capabilities in Big Data, and Cloud-based technologies to create a data-driven customer-focused culture.
+Cross-industry experience in defining cloud-based solution architecture across retail, utilities, manufacturing, banking, and semiconductor manufacturing organizations at multiple geographies such as Singapore, United States, United Kingdom, Canada and India. A partial list of clients includes Walmart, Sams, Informatica, Apple, GlobalFoundries, Toyota, Marks & Spencer and Sembcorp.
 
-### Markdown
+### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
