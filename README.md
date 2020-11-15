@@ -1,4 +1,4 @@
-## Sakthivel Nachimuthu (Cloud Data & AI Solution Archict)
+## Sakthivel Nachimuthu (Cloud Data & AI Solution Architect)
 
 You can use the [editor on GitHub](https://github.com/dcnsakthi/dcnsakthi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
