@@ -10,37 +10,37 @@ With 18+ external certifications on various technologies and few titles are,
 
 - Microsoft Certified Cloud Solution Architect
 - Microsoft Certified DevOps Engineer
+- Microsoft Certified Azure Developer
 - IBM Certified Solution Designer
 - IBM Certified Solution Developer
 - Microsoft Certified Technology Specialist 
 
 ### Experience
 
-
 ```markdown
 
 #Sembcorp Industries Ltd (April 2019 - Present)
-Enterprise BigData Solution Architect & Data Science @ Sembcorp, Singapore
+Enterprise Big Data Solution Architect & Data Science @ Sembcorp, Singapore
 Singapore
 
 #Cognizant (10 years 3 months)
 
-Enterprise Azure Cloud Architecture & Sr. BigData Consultant @ Sam’s Club, Canada (less than a year)
+Enterprise Azure Cloud Architecture & Senior Big Data Consultant @ Sam’s Club, Canada (less than a year)
 Mississauga, Canada
 
-Enterprise Azure Cloud Architecture & Sr. BigData Consultant @ Walmart, United States (2 years 8 months)
+Enterprise Azure Cloud Architecture & Senior Big Data Consultant @ Walmart, United States (2 years 8 months)
 Arkansas, United States
 
-Solution Architect, Sr. Consultant - BI & DBA @ GlobalFoundries, Singapore (2 years)
+Solution Architect, Senior Consultant - BI & DBA @ GlobalFoundries, Singapore (2 years)
 Woodlands, Singapore
 
-Solution Architect, Sr. Consultant - BI & DBA @ Marks & Spencer, India (1 year 3 months)
+Solution Architect, Senior Consultant - BI & DBA @ Marks & Spencer, India (1 year 3 months)
 Chennai, India
 
-Solution Architect, Sr. Consultant - BI & DBA @ Marks & Spencer, United Kingdom (1 year)
+Solution Architect, Senior Consultant - BI & DBA @ Marks & Spencer, United Kingdom (1 year)
 London, United Kingdom
 
-Sr. Developer .Net, BI & DBA @ Toyota, India (3 years 1 month)
+Senior Developer .Net, BI & DBA @ Toyota, India (3 years 1 month)
 Chennai, India
 
 #Amazon (less than a year)
@@ -50,6 +50,16 @@ Chennai, India
 #Satyam Computer Services Ltd (less than a year)
 Associate Trainee @ Satyam, India (less than a year)
 Chennai, India
-
 ```
+### Education
 
+```markdown
+#Master of Computer Applications - MCA, Computer Applications
+SRM University, TN, India
+
+#Master of Commerce - M.Com, Business/Commerce
+Annamalai University, TN, India
+
+#Bachelor of Commerce & Computer Applications - B.Com (CA), Computer Applications
+Bharathiar University, TN, India
+```
