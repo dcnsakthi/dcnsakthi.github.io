@@ -1,4 +1,4 @@
-## Sakthivel Nachimuthu (Cloud Solution Architect - Data & AI)
+## Sakthivel Nachimuthu (Cloud Solution Architect - Data & AI) | [LinkedIn](https://www.linkedin.com/in/dcnsakthi)
 
 ### Summary
 
@@ -63,3 +63,21 @@ Annamalai University, TN, India
 #Bachelor of Commerce & Computer Applications - B.Com (CA), Computer Applications
 Bharathiar University, TN, India
 ```
+### Skills
+
+|	Data Management	| 	Data Stores 	| 	Technology	| 	Analytics	| 	DevOps	| 
+|	------------------ 	|	------------------ 	|	------------------ 	|	------------------ 	|	------------------ 	|
+|	Data Quality & Governance	|	Synapse Analytics	|	Cloud-MS Azure	|	Azure Analysis Services	|	GitHub, Git, TFVC & SVN	|
+|	Metadata Management & MDM	|	SQL Database, Data Warehouse	|	Google Cloud Platform	|	Power BI, Tableau & Qlik	|	Azure DevOps, TFS & JIRA	|
+|	Data Security	|	Delta & Data Lake	|	Enterprise Architecture	|	ThoughtSpot, Druid & atScale	|	DokerHub & ACR	|
+|	Streaming & Micro-services	|	Cosmos DB & MongoDB	|	Hortonworks/Cloudera	|	Big Query, SQL & NLP	|	PyPI, Maven, NPM, NuGet, Node	|
+|	Informatica EDC, IICS & AXON	|	Google BigQuery & Bigtable	|	Big Data & Cloud Migration	|	Azure Synapse Analytics	|	GitHub Actions, Azure Pipelines & Jenkins	|
+|	Azure Data Catalog	|	Teradata, MariaDB & Postgres	|	Data Lake Analytics - USql/Python	|	Social Media & NLP Analytics	|	WhiteSource (SCA)	|
+|	Delta Lake (Databricks)	|	Blob & S3 Storage	|	Databricks and Spark	|	Databricks & Qubole	|	SonarCloud & SonarQube (SAST)	|
+|		|	DB2, Oracle & MySQL	|	Azure ML - SparkML & TensorFlow	|	MLib & Azure ML	|		|
+|		|	ADLS, HDFS, DBFS & ABFS	|	MSBI Stack	|	KNIME & Alteryx	|		|
+|		|	ThoughtSpot, Druid & atScale	|	Scala, Java, Node JS & .Net	|	Plotly Dash & Webapp	|		|
+|		|	Table & Queue Storage	|	Airflow, NiFi & Data Factory	|	Kubernetes & Docker	|		|
+|		|		|	KNIME & Argo	|	Grafana & Redash	|		|
+|		|		|	Data Lakehouse & Warehouse	|	Zeppelin & Jupyter 	|		|
+|		|		|	Kubernetes & Docker	|		|		|
