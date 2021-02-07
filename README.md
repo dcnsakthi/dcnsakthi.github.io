@@ -66,7 +66,7 @@ Bharathiar University, TN, India
 ### Skills
 
 |	Data Management	| 	Data Stores 	| 	Technology	| 	Analytics	| 	DevOps	| 
-|	------------------ 	|	------------------ 	|	------------------ 	|	------------------ 	|	------------------ 	|
+|	:------------------ 	|	:------------------ 	|	:------------------ 	|	:------------------ 	|	:------------------ 	|
 |	Data Quality & Governance	|	Synapse Analytics	|	Cloud-MS Azure	|	Azure Analysis Services	|	GitHub, Git, TFVC & SVN	|
 |	Metadata Management & MDM	|	SQL Database, Data Warehouse	|	Google Cloud Platform	|	Power BI, Tableau & Qlik	|	Azure DevOps, TFS & JIRA	|
 |	Data Security	|	Delta & Data Lake	|	Enterprise Architecture	|	ThoughtSpot, Druid & atScale	|	DokerHub & ACR	|
