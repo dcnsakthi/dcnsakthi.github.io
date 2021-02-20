@@ -1,5 +1,5 @@
-## Sakthivel Nachimuthu (Cloud Solution Architect - Data & AI) | [LinkedIn](https://www.linkedin.com/in/dcnsakthi){:target="_blank"}
-<hr>
+## Sakthivel Nachimuthu (Cloud Solution Architect - Data & AI) | [LinkedIn](https://www.linkedin.com/in/dcnsakthi)
+<hr/>
 
 ### Summary
 
