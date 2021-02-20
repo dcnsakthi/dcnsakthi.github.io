@@ -1,4 +1,4 @@
-## Sakthivel Nachimuthu (Cloud Solution Architect - Data & AI) | [LinkedIn](https://www.linkedin.com/in/dcnsakthi)
+## Sakthivel Nachimuthu (Cloud Solution Architect - Data & AI) | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank">LinkedIn</a>
 <hr/>
 
 ### Summary
