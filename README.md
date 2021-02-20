@@ -1,5 +1,5 @@
 ## Sakthivel Nachimuthu (Cloud Solution Architect - Data & AI) | [LinkedIn](https://www.linkedin.com/in/dcnsakthi)
-<hr></hr>
+<hr>
 
 ### Summary
 
@@ -7,7 +7,7 @@ Forward-thinking consultant and technologist with 13+ years of experience, drivi
 
 Cross-industry experience in defining cloud-based solution architecture across retail, manufacturing, banking, utility and semiconductor organizations at multiple geographies such as Singapore, United States, United Kingdom, Canada and India. A partial list of customers includes Walmart, Sams, Informatica, GlobalFoundries, Apple, Toyota and Marks & Spencer.
 
-With 18+ external certifications on various technologies and few titles are,
+With 20+ external certifications on various technologies and few titles are,
 
 - Microsoft Certified Cloud Solution Architect
 - Microsoft Certified DevOps Engineer
