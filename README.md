@@ -5,7 +5,7 @@
 
 Forward-thinking consultant and technologist with 13+ years of experience, driving next-level performance in the digital-age for Fortune X companies through innovation and systems architecture. Relentless in creating solutions, that weave together existing business/technology practices with new capabilities in Big Data, Data Science and Cloud-based technologies to create a data-driven customer-focused culture.
 
-Cross-industry experience in defining cloud-based solution architecture across retail, manufacturing, banking, utility and semiconductor organizations at multiple geographies such as Singapore, United States, United Kingdom, Canada and India. A partial list of customers includes Walmart, Sams, Informatica, GlobalFoundries, Apple, Toyota and Marks & Spencer.
+Cross-industry experience in defining cloud-based solution architecture across retail, manufacturing, banking, utility and semiconductor organizations at multiple geographies such as Singapore, United States, United Kingdom, Canada and India. A partial list of customers includes Walmart, Sams, Informatica, GlobalFoundries, Apple, Toyota, Marks & Spencer and Sembcorp.
 
 With 20+ external certifications on various technologies and few titles are,
 
