@@ -19,7 +19,6 @@ With 20+ external certifications on various technologies and few titles are,
 ### Experience
 
 ```markdown
-
 #Sembcorp Industries Ltd (April 2019 - Present)
 Enterprise Big Data Solution Architect & Data Science @ Sembcorp, Singapore
 Singapore
