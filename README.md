@@ -1,4 +1,4 @@
-## Sakthivel Nachimuthu (Cloud Solution Architect - Data & AI) | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank">LinkedIn</a>
+## Sakthivel Nachimuthu (Cloud Solution Architect - Data & AI) | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="20px"></img></a> 
 <hr/>
 
 ### Summary
@@ -11,6 +11,8 @@ With 20+ external certifications on various technologies and few titles are,
 
 - Microsoft Certified Cloud Solution Architect
 - Microsoft Certified DevOps Engineer
+- Microsoft Certified Data Analyst
+- Microsoft Certified Azure Data Scientist
 - Microsoft Certified Azure Developer
 - IBM Certified Solution Designer
 - IBM Certified Solution Developer
