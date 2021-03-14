@@ -9,11 +9,11 @@ Cross-industry experience in defining cloud-based solution architecture across r
 
 With 20+ external certifications on various technologies and few titles are,
 
-- Microsoft Certified Cloud Solution Architect
-- Microsoft Certified DevOps Engineer
-- Microsoft Certified Data Analyst
-- Microsoft Certified Azure Data Scientist
-- Microsoft Certified Azure Developer
+- Microsoft Certified Azure Solution Architect Expert
+- Microsoft Certified DevOps Engineer Expert
+- Microsoft Certified Azure Data Scientist Associate
+- Microsoft Certified Data Analyst Associate
+- Microsoft Certified Azure Developer Associate
 - IBM Certified Solution Designer
 - IBM Certified Solution Developer
 - Microsoft Certified Technology Specialist 
