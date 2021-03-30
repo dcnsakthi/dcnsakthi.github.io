@@ -14,6 +14,7 @@ With 20+ external certifications on various technologies and few titles are,
 - Microsoft Certified Azure Data Scientist Associate
 - Microsoft Certified Data Analyst Associate
 - Microsoft Certified Azure Developer Associate
+- Microsoft Certified Azure Administrator Associate
 - IBM Certified Solution Designer
 - IBM Certified Solution Developer
 - Microsoft Certified Technology Specialist 
