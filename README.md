@@ -1,5 +1,5 @@
 ## Sakthivel Nachimuthu (Cloud Solution Architect - Data & AI) | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="20px"></a> 
-
+<hr>
 
 ### Summary
 
@@ -31,10 +31,10 @@ Singapore
 
 #Cognizant (10 years 3 months)
 
-Enterprise Azure Cloud Architecture & Senior Big Data Consultant @ Sam’s Club, Canada (less than a year)
+Enterprise Cloud Architect & Senior Big Data Consultant @ Sam’s Club, Canada (less than a year)
 Mississauga, Canada
 
-Enterprise Azure Cloud Architecture & Senior Big Data Consultant @ Walmart, United States (2 years 8 months)
+Cloud Architect & Senior Big Data Consultant @ Walmart, United States (2 years 8 months)
 Arkansas, United States
 
 Solution Architect, Senior Consultant - BI & DBA @ GlobalFoundries, Singapore (2 years)
