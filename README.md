@@ -73,7 +73,7 @@ Bharathiar University, TN, India
 
 |	Data Management	| 	Data Stores 	| 	Technology	| 	Analytics	| 	DevOps	| 
 |	:------------------ 	|	:------------------ 	|	:------------------ 	|	:------------------ 	|	:------------------ 	|
-|	Data Quality & Governance	|	Synapse Analytics	|	Cloud-MS Azure	|	Azure Analysis Services	|	GitHub, Git, TFVC & SVN	|
+|	Data Quality & Governance	|	Synapse Analytics	|	Microsoft Azure	|	Azure Analysis Services	|	GitHub, Git, TFVC & SVN	|
 |	Metadata Management & MDM	|	SQL Database, Data Warehouse	|	Google Cloud Platform	|	Power BI, Tableau & Qlik	|	Azure DevOps, TFS & JIRA	|
 |	Data Security	|	Delta & Data Lake	|	Enterprise Architecture	|	ThoughtSpot, Druid & atScale	|	DokerHub & ACR	|
 |	Streaming & Micro-services	|	Cosmos DB & MongoDB	|	Hortonworks/Cloudera	|	Big Query, SQL & NLP	|	PyPI, Maven, NPM, NuGet, Node	|
