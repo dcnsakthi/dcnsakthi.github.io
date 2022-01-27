@@ -1,11 +1,11 @@
-## Sakthivel Nachimuthu (Cloud Solutions Architect - Data & AI) | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="20px"></a> 
+## Sakthivel Nachimuthu (Cloud Solution Architect - Data & AI) | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="20px"></a> 
 <hr>
 
 ### Summary
 
-Forward-thinking consultant and technologist with 13+ years of experience, driving next-level performance in the digital-age for Fortune X companies through innovation and systems architecture. Relentless in creating solutions, that weave together existing business/technology practices with new capabilities in Big Data, Data Science and Cloud-based technologies to create a data-driven customer-focused culture.
+Forward-thinking consultant and technologist with 14+ years of experience, driving next-level performance in the digital-age for Fortune X companies through innovation and systems architecture. Relentless in creating solutions, that weave together existing business/technology practices with new capabilities in Big Data, Data Science and Cloud-based technologies to create a data-driven customer-focused culture.
 
-Cross-industry experience in defining cloud-based solution architecture across retail, manufacturing, banking, utility and semiconductor organizations at multiple geographies such as Singapore, United States, United Kingdom, Canada and India. A partial list of customers includes Walmart, Sam's, Informatica, GlobalFoundries, Apple, Toyota, Marks & Spencer and Sembcorp.
+Cross-industry experience in defining cloud-based solution architecture across retail, manufacturing, banking, utility, agriculture, infrastructure, semiconductor and public sector organizations at multiple geographies such as Singapore, United States, United Kingdom, Canada and India. A partial list of customers includes Walmart, Sam's, Informatica, GlobalFoundries, Apple, Toyota, Marks & Spencer and Sembcorp.
 
 With 20+ external certifications on various technologies and few titles are,
 
@@ -25,7 +25,11 @@ With 20+ external certifications on various technologies and few titles are,
 ### Experience
 
 ```markdown
-#Sembcorp Industries Ltd (April 2019 - Present)
+#Microsoft (October 2021 - Present)
+Senior Cloud Solution Architect (Data & AI) @ Microsoft, Singapore
+Singapore
+
+#Sembcorp Industries Ltd (April 2019 - October 2021)
 Enterprise Big Data Solution Architect & Data Science @ Sembcorp, Singapore
 Singapore
 
