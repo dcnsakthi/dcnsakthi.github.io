@@ -1,4 +1,4 @@
-## Sakthivel Nachimuthu (Senior Cloud Solution Architect - Data & AI) | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="20px"></a> 
+## Sakthivel Nachimuthu (Sr Cloud Solution Architect - Data & AI) | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="20px"></a> 
 <hr>
 
 ### Summary
