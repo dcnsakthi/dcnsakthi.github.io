@@ -1,11 +1,11 @@
 ## Sakthivel Nachimuthu (Sr Cloud Solution Architect - Data & AI) | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="20px"></a> 
 <hr>
 
-### Summary
+## Summary
 
-Forward-thinking consultant and technologist with 15+ years of experience, driving next-level performance in the digital-age for Fortune X companies through innovation and systems architecture. Relentless in creating solutions, that weave together existing business/technology practices with new capabilities in Big Data, Data Science and Cloud-based technologies to create a data-driven customer-focused culture.
+Forward-thinking consultant and technologist with 16+ years of experience, driving next-level performance in the digital-age for Fortune X companies through innovation and systems architecture. Relentless in creating solutions, that weave together existing business/technology practices with new capabilities in Big Data, Data Science and Cloud-based technologies to create a data-driven customer-focused culture.
 
-Cross-industry experience in defining cloud-based solution architecture across retail, manufacturing, banking, utility, agriculture, infrastructure, semiconductor and public sector organizations at multiple geographies such as Singapore, United States, United Kingdom, Canada and India. A partial list of customers includes Walmart, Sam's, Informatica, GlobalFoundries, Apple, Toyota, Marks & Spencer and Sembcorp.
+International, cross-industry experience in defining cloud-based solution architecture across retail, manufacturing, banking, utility, agriculture, infrastructure, semiconductor and public sector organizations at multiple geographies such as Singapore, United States, United Kingdom, Canada and India. A partial list of customers includes Walmart, Sam's, Informatica, GlobalFoundries, Apple, Toyota, Marks & Spencer and Sembcorp.
 
 With 20+ external certifications on various technologies and few titles are,
 
@@ -19,13 +19,65 @@ With 20+ external certifications on various technologies and few titles are,
 - Microsoft Certified Azure Security Engineer (Associate)
 - Microsoft Certified Azure Developer (Associate)
 - Microsoft Certified Azure Administrator (Associate)
+- ISC2 Certified in Cybersecurity (CC)
+- Microsoft Certified Professional (MCP)
 - IBM Certified Solution Designer
 - IBM Certified Solution Developer
-- Microsoft Certified Technology Specialist 
+- Microsoft Certified Technology Specialist (MCTS) 
 
-### Experience
+## Experience
 
-```markdown
+### Microsoft (since October 2021)
+#### Senior Cloud Solution Architect (Data & AI) @ Microsoft, Singapore 
+[Singapore](https://maps.app.goo.gl/XZCSicScgExa64n56)
+
+### Sembcorp Industries Ltd (2 years 7 months)
+#### Enterprise Big Data Solution Architect & Data Science @ Sembcorp, Singapore <br/>
+[Singapore](https://maps.app.goo.gl/XZCSicScgExa64n56)
+
+### Cognizant (10 years 3 months)
+
+#### Enterprise Cloud Architect & Senior Big Data Consultant @ Sam’s Club, Canada (less than a year)
+[Mississauga, Canada](https://maps.app.goo.gl/Srvn8TCHw9XehmSs9)
+
+#### Cloud Architect & Senior Big Data Consultant @ Walmart, United States (2 years 8 months)
+[Arkansas, United States](https://maps.app.goo.gl/NejN4dJoPDH8bgGcA)
+
+#### Solution Architect, Senior Consultant - BI & DBA @ GlobalFoundries, Singapore (2 years)
+[Woodlands, Singapore](https://maps.app.goo.gl/BRaNqKS9DLudVxu5A)
+
+#### Solution Architect, Senior Consultant - BI & DBA @ Marks & Spencer, India (1 year 3 months)
+[Chennai, India](https://maps.app.goo.gl/5cbLQFmdyXXRX4ka8)
+
+#### Solution Architect, Senior Consultant - BI & DBA @ Marks & Spencer, United Kingdom (1 year)
+[London, United Kingdom](https://maps.app.goo.gl/QqFZFDw4WFnDyymy8)
+
+#### Senior Developer .Net, BI & DBA @ Toyota, India (3 years 1 month)
+[Chennai, India](https://maps.app.goo.gl/5cbLQFmdyXXRX4ka8)
+
+### Amazon (less than a year)
+#### Analyst @ Amazon Development Center, India  (less than a year)
+[Chennai, India](https://maps.app.goo.gl/5cbLQFmdyXXRX4ka8)
+
+### Satyam Computer Services Ltd (less than a year)
+#### Associate Trainee @ Satyam, India (less than a year)
+[Chennai, India](https://maps.app.goo.gl/5cbLQFmdyXXRX4ka8)
+
+## Education
+
+### Master of Computer Applications - MCA, Computer Applications (3 years)
+#### SRM University, TN, India
+[Chennai, Tamil Nadu](https://maps.app.goo.gl/5cbLQFmdyXXRX4ka8)
+
+### Master of Commerce - M.Com, Business/Commerce (2 years)
+#### Annamalai University, TN, India
+[Chennai, Tamil Nadu](https://maps.app.goo.gl/5cbLQFmdyXXRX4ka8)
+
+### Bachelor of Commerce & Computer Applications - B.Com (CA), Computer Applications (3 years)
+#### Bharathiar University, TN, India
+[Kangeyam, Tamil Nadu](https://maps.app.goo.gl/cQ99pAaWXRz6RyNH9)
+
+<!-- ```markdown 
 #Microsoft (October 2021 - Present)
 Senior Cloud Solution Architect (Data & AI) @ Microsoft, Singapore
 Singapore
@@ -73,7 +125,8 @@ Annamalai University, TN, India
 
 #Bachelor of Commerce & Computer Applications - B.Com (CA), Computer Applications
 Bharathiar University, TN, India
-```
+``` -->
+
 ### Skills
 
 |	Data Management	| 	Data Stores 	| 	Technology	| 	Analytics	| 	DevOps	| 
