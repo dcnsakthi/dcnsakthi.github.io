@@ -11,6 +11,7 @@ With 20+ external certifications on various technologies and few titles are,
 - Microsoft Certified Azure Solution Architect (Expert)
 - Microsoft Certified Cybersecurity Architect (Expert)
 - Microsoft Certified DevOps Engineer (Expert)
+- Microsoft Certified Fabric Analytics Engineer (Associate)
 - Microsoft Certified Azure Data Engineer (Associate)
 - Microsoft Certified Azure Data Scientist (Associate)
 - Microsoft Certified Data Analyst (Associate)
