@@ -1,12 +1,12 @@
-## Sakthivel Nachimuthu (Sr Cloud Solution Architect - Data & AI) | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="20px"></a> 
+## Sakthivel Nachimuthu (Architect - Data & AI) | <a href="https://www.linkedin.com/in/dcnsakthi" target="_blank"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" height="20px"></a> 
 
 ## Summary
 
-Forward-thinking consultant and technologist with 16+ years of experience, driving next-level performance in the digital-age for Fortune X companies through innovation and systems architecture. Relentless in creating solutions, that weave together existing business/technology practices with new capabilities in Big Data, Data Science and Cloud-based technologies to create a data-driven customer-focused culture.
+Forward-thinking consultant and technologist with 17+ years of experience, driving next-level performance in the digital-age for Fortune X companies through innovation and systems architecture. Relentless in creating solutions, that weave together existing business/technology practices with new capabilities in Big Data, Data Science and Cloud-based technologies to create a data-driven customer-focused culture.
 
 International, cross-industry experience in defining cloud-based solution architecture across retail, manufacturing, banking, utility, agriculture, infrastructure, semiconductor and public sector organizations at multiple geographies such as Singapore, United States, United Kingdom, Canada and India. A partial list of customers includes Walmart, Sam's, Informatica, GlobalFoundries, Apple, Toyota, Marks & Spencer and Sembcorp.
 
-With 20+ external certifications on various technologies and few titles are,
+With over 20 external certifications in various technologies, including titles such as:
 
 - Microsoft Certified Azure Solution Architect (Expert)
 - Microsoft Certified Cybersecurity Architect (Expert)
@@ -28,11 +28,16 @@ With 20+ external certifications on various technologies and few titles are,
 ## Experience
 
 ### Microsoft (since October 2021)
-#### Senior Cloud Solution Architect (Data & AI) @ Microsoft, Singapore 
+
+#### Architect (EAG - Data & AI) @ Microsoft, Asia (Present)
+[Singapore](https://maps.app.goo.gl/XZCSicScgExa64n56)
+
+#### Senior Cloud Solution Architect (Data & AI) @ Microsoft, Singapore (2 years 10 months)
 [Singapore](https://maps.app.goo.gl/XZCSicScgExa64n56)
 
 ### Sembcorp Industries Ltd (2 years 7 months)
-#### Enterprise Big Data Solution Architect & Data Science @ Sembcorp, Singapore <br/>
+
+#### Enterprise Big Data Solution Architect & Data Science @ Sembcorp, Singapore 
 [Singapore](https://maps.app.goo.gl/XZCSicScgExa64n56)
 
 ### Cognizant (10 years 3 months)
@@ -129,19 +134,19 @@ Bharathiar University, TN, India
 
 ### Skills
 
-|	Data Management	| 	Data Stores 	| 	Technology	| 	Analytics	| 	DevOps	| 
-|	:------------------ 	|	:------------------ 	|	:------------------ 	|	:------------------ 	|	:------------------ 	|
-|	Data Quality & Governance	|	Synapse Analytics	|	Microsoft Azure	|	Azure Analysis Services	|	GitHub, Git, TFVC & SVN	|
-|	Metadata Management & MDM	|	SQL Database, Data Warehouse	|	Google Cloud Platform	|	Power BI, Tableau & Qlik	|	Azure DevOps, TFS & JIRA	|
-|	Data Security	|	Delta & Data Lake	|	Enterprise Architecture	|	ThoughtSpot, Druid & atScale	|	DokerHub & ACR	|
-|	Streaming & Micro-services	|	Cosmos DB & MongoDB	|	Hortonworks/Cloudera	|	Big Query, SQL & NLP	|	PyPI, Maven, NPM, NuGet, Node	|
-|	Informatica EDC, IICS & AXON	|	Google BigQuery & Bigtable	|	Big Data & Cloud Migration	|	Azure Synapse Analytics	|	GitHub Actions, Azure Pipelines & Jenkins	|
-|	Azure Data Catalog	|	Teradata, MariaDB & Postgres	|	Data Lake Analytics - USql/Python	|	Social Media & NLP Analytics	|	WhiteSource (SCA)	|
-|	Delta Lake (Databricks)	|	Blob & S3 Storage	|	Databricks and Spark	|	Databricks & Qubole	|	SonarCloud & SonarQube (SAST)	|
-|		|	DB2, Oracle & MySQL	|	Azure ML - SparkML & TensorFlow	|	MLib & Azure ML	|		|
-|		|	ADLS, HDFS, DBFS & ABFS	|	MSBI Stack	|	KNIME & Alteryx	|		|
-|		|	ThoughtSpot, Druid & atScale	|	Scala, Java, Node JS & .Net	|	Plotly Dash & Webapp	|		|
-|		|	Table & Queue Storage	|	Airflow, NiFi & Data Factory	|	Kubernetes & Docker	|		|
-|		|		|	KNIME & Argo	|	Grafana & Redash	|		|
-|		|		|	Data Lakehouse & Warehouse	|	Zeppelin & Jupyter 	|		|
-|		|		|	Kubernetes & Docker	|		|		|
+|	Data Management	| 	Data Stores 	| 	Technology	| 	Analytics	| 	DevOps	| AI |
+|	:------------------ 	|	:------------------ 	|	:------------------ 	|	:------------------ 	|	:------------------ 	| :------------------ 	|
+|	Data Quality & Governance	|	Synapse Analytics	|	Microsoft Azure	|	Azure Analysis Services	|	GitHub, Git, TFVC & SVN	| OpenAI & Azure OpenAI |
+|	Metadata Management & MDM	|	SQL Database, Data Warehouse	|	Google Cloud Platform	|	Power BI, Tableau & Qlik	|	Azure DevOps, TFS & JIRA	| Azure AI |
+|	Data Security	|	Delta & Data Lake	|	Enterprise Architecture	|	ThoughtSpot, Druid & atScale	|	DokerHub & ACR	| LLM/SLM - GenAI |
+|	Streaming & Micro-services	|	Cosmos DB & MongoDB	|	Hortonworks/Cloudera	|	Big Query, SQL & NLP	|	PyPI, Maven, NPM, NuGet, Node	| Agentic AI |
+|	Informatica EDC, IICS & AXON	|	Google BigQuery & Bigtable	|	Big Data & Cloud Migration	|	Azure Synapse Analytics	|	GitHub Actions, Azure Pipelines & Jenkins	| Copilot |
+|	Azure Data Catalog	|	Teradata, MariaDB & Postgres	|	Data Lake Analytics - USql/Python	|	Social Media & NLP Analytics	|	WhiteSource (SCA)	| AutGen |
+|	Delta Lake (Databricks)	|	Blob & S3 Storage	|	Databricks and Spark	|	Databricks & Qubole	|	SonarCloud & SonarQube (SAST)	| Semantic Kernel |
+|	Microsoft Purview	|	DB2, Oracle & MySQL	|	Azure ML - SparkML & TensorFlow	|	MLib & Azure ML	|		| Azure ML |
+|	Microsoft Fabric OneLake	|	ADLS, HDFS, OneLake, DBFS & ABFS	|	MSBI Stack	|	KNIME & Alteryx	|		| Microsoft Fabric |
+|		|	ThoughtSpot, Druid & atScale	|	Scala, Java, Node JS & .Net	|	Plotly Dash & Webapp	|		| LLMOps & MLOps |
+|		|	Table & Queue Storage	|	Airflow, NiFi & Data Factory	|	Kubernetes & Docker	|		| DeepSeek |
+|		|		|	KNIME & Argo	|	Grafana & Redash	|		| Mosaic AI |
+|		|		|	Data Lakehouse & Warehouse	|	Zeppelin & Jupyter 	|		| Google Gemini |
+|		|		|	Kubernetes & Docker	|	Microsoft Fabric	|		|    |
